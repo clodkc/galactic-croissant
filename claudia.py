@@ -1,2 +1,2 @@
-print("I like orange")
+print("I like oranges")
 print("Second row")
